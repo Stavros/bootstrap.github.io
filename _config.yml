@@ -60,8 +60,8 @@ topics:
 
   - name: GNURadio
     web_url: https://www.gnuradio.org/
-    image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/gnuradio-logo.svg
-
+    image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/gnuradio-logo.png
+    
   - name: FPGA
     web_url: https://en.wikipedia.org/wiki/Field-programmable_gate_array
     image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/Fpga.png
