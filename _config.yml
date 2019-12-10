@@ -33,8 +33,7 @@ social_media:
   # dribbble: your_username
   # facebook: your_username
   # hackerrank: your_username
-  # instagram: your_username
-  keybase: stevaras
+  # instagram: your_username  keybase: stevaras
   linkedin: skalapothas
   # mastodon: your_username
   # medium: your_username
@@ -47,12 +46,22 @@ social_media:
   youtube: istevaras
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: LPWAN
+    web_url: https://en.wikipedia.org/wiki/LPWAN
+    image_url: https://www.disk91.com/wp-content/uploads/2019/09/LpWan-Logos.png
 
-  - name: Web design
+  - name: IoT
+    web_url: https://www.internet-der-dinge.de/en.html
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: M2M
+    web_url: https://www.etsi.org/technologies/internet-of-things
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: GNURadio
+    web_url: https://www.gnuradio.org/
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+
+  - name: FGPA
+    web_url: https://en.wikipedia.org/wiki/Field-programmable_gate_array
+    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
