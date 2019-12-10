@@ -62,6 +62,6 @@ topics:
     web_url: https://www.gnuradio.org/
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
 
-  - name: FGPA
+  - name: FPGA
     web_url: https://en.wikipedia.org/wiki/Field-programmable_gate_array
     #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
