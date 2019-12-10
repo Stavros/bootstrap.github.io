@@ -48,11 +48,11 @@ social_media:
 topics:
   - name: LPWAN
     web_url: https://en.wikipedia.org/wiki/LPWAN
-    image_url: https://www.disk91.com/wp-content/uploads/2019/09/LpWan-Logos.png
+    image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/LPWAN-Logos.png
 
   - name: IoT
     web_url: https://www.internet-der-dinge.de/en.html
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/internet-of-things-world.png
 
   - name: M2M
     web_url: https://www.etsi.org/technologies/internet-of-things
@@ -60,8 +60,8 @@ topics:
 
   - name: GNURadio
     web_url: https://www.gnuradio.org/
-    #image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+    image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/gnuradio-logo.svg
 
   - name: FPGA
     web_url: https://en.wikipedia.org/wiki/Field-programmable_gate_array
-    image_url: ./assets/Fpga.png
+    image_url: https://raw.githubusercontent.com/Stavros/stavros.github.io/master/assets/Fpga.png
