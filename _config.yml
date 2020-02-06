@@ -25,7 +25,7 @@ projects:
   exclude:
     archived: false
     forks: true
-    projects:
+    projects: stavros.github.io
     # - repo-name
 
 social_media:
